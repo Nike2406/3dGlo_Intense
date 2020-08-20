@@ -123,6 +123,9 @@ body {
 .projects {
   background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 95.44%);
 }
+.project-image {
+  max-width: 338px;
+}
 .projects-slide {
   display: flex;
   align-items: flex-start;
