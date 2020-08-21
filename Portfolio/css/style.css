@@ -193,6 +193,9 @@ body {
 .projects-bullet-active {
   background-color: #FFBB01;
 }
+.swiper-slide-next {
+  opacity: 0;
+}
 /* contacts */
 .contacts-form {  
   background: #FFFFFF;
